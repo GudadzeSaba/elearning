@@ -1,0 +1,427 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap");
+body {
+  background-color: white;
+  background-image: url(/elearning/assets/image-hero-desktop.png);
+  background-repeat: no-repeat;
+  width: 1440px;
+  height: 1845px;
+  background-size: 1000px;
+  background-position-x: 800px;
+  background-position-y: -119.5px;
+}
+.head {
+  position: absolute;
+  margin-left: 165.79px;
+  margin-top: 38.75px;
+  height: 28px;
+  width: 111px;
+  font-weight: 700;
+}
+.heading {
+  position: absolute;
+  height: 143px;
+  color: #13183f;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 56px;
+  line-height: 71px;
+  margin-top: 252px;
+  margin-left: 165px;
+}
+.paragraph {
+  position: absolute;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  height: 84px;
+  color: #83869a;
+  margin-top: 424px;
+  margin-left: 165px;
+}
+.main {
+  position: absolute;
+  background: linear-gradient(180deg, #ff6f48 0%, #f02aa6 100%);
+  width: 167px;
+  height: 63px;
+  border-radius: 31.5px;
+  border: none;
+  margin-top: 548px;
+  margin-left: 165px;
+  color: white;
+}
+.butt {
+  width: 167px;
+  height: 56px;
+  border-radius: 28px;
+  position: absolute;
+  background-color: #13183f;
+  border-radius: 28px;
+  border: none;
+  color: white;
+  margin: 0;
+  margin-left: 1108px;
+  margin-top: 24px;
+}
+.divisor {
+  position: absolute;
+
+  width: 100%;
+  height: 888px;
+  margin-top: 837px;
+  background: linear-gradient(180deg, #ffffff 0%, #f0f1ff 100%);
+}
+.first {
+  position: absolute;
+  width: 350px;
+  height: 322px;
+  border-radius: 15px;
+  background: linear-gradient(180deg, #ff6f48 0%, #f02aa6 100%);
+  margin-left: 165px;
+  margin-top: 24px;
+}
+.one {
+  position: absolute;
+  width: 286px;
+  height: 120px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 40px;
+  color: white;
+  margin-top: 64px;
+  margin-left: 32px;
+}
+.second {
+  position: absolute;
+  margin-left: 545px;
+  width: 350px;
+  height: 322px;
+  background-color: white;
+  margin-top: 24px;
+  border-radius: 15px;
+}
+.two {
+  position: absolute;
+  width: 121px;
+  height: 30px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 30.24px;
+  font-size: 24px;
+  color: #13183f;
+  margin-top: 64px;
+  margin-left: 32px;
+}
+.pone {
+  position: absolute;
+  height: 112px;
+  width: 286px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  margin-top: 118px;
+  margin-left: 32px;
+  color: #83869a;
+}
+.bone {
+  position: absolute;
+  width: 104px;
+  height: 28px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  background-color: #ffffff;
+  border: none;
+  color: #f74780;
+  line-height: 28px;
+  margin-top: 254px;
+  margin-left: 32px;
+}
+.ione {
+  position: absolute;
+  margin-left: 32px;
+}
+.third {
+  position: absolute;
+  margin-left: 925px;
+  width: 350px;
+  height: 322px;
+  background-color: white;
+  margin-top: 24px;
+  border-radius: 15px;
+}
+.three {
+  position: absolute;
+  width: 121px;
+  height: 30px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 30.24px;
+  font-size: 24px;
+  color: #13183f;
+  margin-top: 64px;
+  margin-left: 32px;
+}
+.ptwo {
+  position: absolute;
+  height: 112px;
+  width: 286px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  margin-top: 118px;
+  margin-left: 32px;
+  color: #83869a;
+}
+.btwo {
+  position: absolute;
+  width: 104px;
+  height: 28px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  background-color: #ffffff;
+  border: none;
+  color: #f74780;
+  line-height: 28px;
+  margin-top: 254px;
+  margin-left: 32px;
+}
+.itwo {
+  position: absolute;
+  margin-left: 32px;
+}
+.fourth {
+  position: absolute;
+  margin-left: 165px;
+  width: 350px;
+  height: 322px;
+  background-color: white;
+  margin-top: 426px;
+  border-radius: 15px;
+}
+.four {
+  position: absolute;
+  width: 121px;
+  height: 30px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 30.24px;
+  font-size: 24px;
+  color: #13183f;
+  margin-top: 64px;
+  margin-left: 32px;
+}
+.pthree {
+  position: absolute;
+  height: 112px;
+  width: 286px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  margin-top: 118px;
+  margin-left: 32px;
+  color: #83869a;
+}
+.bthree {
+  position: absolute;
+  width: 104px;
+  height: 28px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  background-color: #ffffff;
+  border: none;
+  color: #f74780;
+  line-height: 28px;
+  margin-top: 254px;
+  margin-left: 32px;
+}
+.fivth {
+  position: absolute;
+  margin-left: 545px;
+  width: 350px;
+  height: 322px;
+  background-color: white;
+  margin-top: 426px;
+  border-radius: 15px;
+}
+.five {
+  position: absolute;
+  width: 121px;
+  height: 30px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 30.24px;
+  font-size: 24px;
+  color: #13183f;
+  margin-top: 64px;
+  margin-left: 32px;
+}
+.pfour {
+  position: absolute;
+  height: 112px;
+  width: 286px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  margin-top: 118px;
+  margin-left: 32px;
+  color: #83869a;
+}
+.bfour {
+  position: absolute;
+  width: 104px;
+  height: 28px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  background-color: #ffffff;
+  border: none;
+  color: #f74780;
+  line-height: 28px;
+  margin-top: 254px;
+  margin-left: 32px;
+}
+.ithree {
+  position: absolute;
+  margin-left: 32px;
+}
+.ifour {
+  position: absolute;
+  margin-left: 32px;
+}
+.sixth {
+  position: absolute;
+  margin-left: 925px;
+  width: 350px;
+  height: 322px;
+  background-color: white;
+  margin-top: 426px;
+  border-radius: 15px;
+}
+.six {
+  position: absolute;
+  width: 121px;
+  height: 30px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 30.24px;
+  font-size: 24px;
+  color: #13183f;
+  margin-top: 64px;
+  margin-left: 32px;
+}
+.pfive {
+  position: absolute;
+  height: 112px;
+  width: 286px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  margin-top: 118px;
+  margin-left: 32px;
+  color: #83869a;
+}
+.bfive {
+  position: absolute;
+  width: 104px;
+  height: 28px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  background-color: #ffffff;
+  border: none;
+  color: #f74780;
+  line-height: 28px;
+  margin-top: 254px;
+  margin-left: 32px;
+}
+.ifive {
+  position: absolute;
+  margin-left: 32px;
+}
+.last {
+  width: 100%;
+  height: 130px;
+  background-color: #13183f;
+  position: absolute;
+  margin-top: 1725px;
+}
+.lasthead {
+  position: absolute;
+  margin-left: 165px;
+  color: white;
+}
+.lastb {
+  width: 167px;
+  height: 56px;
+  background: linear-gradient(180deg, #4851ff -54.32%, #f02aa6 100%);
+  border-radius: 28px;
+  border: none;
+  margin-top: 32px;
+  margin-left: 1108px;
+  color: white;
+}
+.lastb:hover {
+  cursor: pointer;
+  background: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.5),
+      rgba(255, 255, 255, 0.5)
+    ),
+    linear-gradient(180deg, #4851ff -54.32%, #f02aa6 100%);
+}
+.bfive:hover {
+  color: #ffa7c3;
+  cursor: pointer;
+}
+.bfour:hover {
+  color: #ffa7c3;
+  cursor: pointer;
+}
+.bthree:hover {
+  color: #ffa7c3;
+  cursor: pointer;
+}
+.btwo:hover {
+  color: #ffa7c3;
+  cursor: pointer;
+}
+.bone:hover {
+  color: #ffa7c3;
+  cursor: pointer;
+}
+.butt:hover {
+  cursor: pointer;
+  background-color: #666ca3;
+}
+.main:hover {
+  cursor: pointer;
+  background: linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+}
